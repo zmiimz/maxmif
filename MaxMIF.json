@@ -1,0 +1,58 @@
+{
+  "parameters": {
+    "general": {
+      "verbose": "true",
+      "useCancerSet": "true",
+      "version": "1.1",
+      "description" : ""
+    },
+    "geneID": {
+      "version": "",
+      "path": "/home/external8/_BIOLOGY3_/MaxMIF/MaxMIF/Background/geneID",
+      "description": ""
+    },
+    "networks": {
+      "STRING": {
+        "version": "10",
+        "path": "/home/external8/_BIOLOGY3_/MaxMIF/MaxMIF/Background/Network/STRINGv10",
+        "description": ""
+      },
+      "HUMANNET": {
+        "version": "1",
+        "path": "/home/external8/_BIOLOGY3_/MaxMIF/MaxMIF/Background/Network/HumanNet",
+        "description": ""
+      }
+    },
+    "CancerGeneSets": {
+      "CGC": {
+        "version": "",
+        "path": "/home/external8/_BIOLOGY3_/MaxMIF/MaxMIF/Background/CancerGeneSet/CGC",
+        "description": ""
+      },
+      "CGCpointMut": {
+        "version": "",
+        "path": "/home/external8/_BIOLOGY3_/MaxMIF/MaxMIF/Background/CancerGeneSet/CGCpointMut",
+        "description": ""
+      },
+      "HCD": {
+        "version": "",
+        "path": "/home/external8/_BIOLOGY3_/MaxMIF/MaxMIF/Background/CancerGeneSet/HCD",
+        "description": ""
+      },
+      "MouseMut": {
+        "version": "",
+        "path": "/home/external8/_BIOLOGY3_/MaxMIF/MaxMIF/Background/CancerGeneSet/MouseMut"
+      },
+      "Rule2020": {
+        "version": "",
+        "path": "/home/external8/_BIOLOGY3_/MaxMIF/MaxMIF/Background/CancerGeneSet/Rule2020",
+        "description": ""
+      },
+      "CGC2019": {
+        "version": "20191006",
+        "path": "/home/external8/_BIOLOGY3_/MaxMIF/MaxMIF/Background/CancerGeneSet/CGC20191006",
+        "description": ""
+      }
+    }
+  }
+}
